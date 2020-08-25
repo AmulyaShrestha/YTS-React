@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/YTS-React/./static/css/main.e4a3482c.chunk.css",
-    "main.js": "/YTS-React/./static/js/main.f6d7a1ff.chunk.js",
-    "main.js.map": "/YTS-React/./static/js/main.f6d7a1ff.chunk.js.map",
-    "runtime~main.js": "/YTS-React/./static/js/runtime~main.420b6462.js",
-    "runtime~main.js.map": "/YTS-React/./static/js/runtime~main.420b6462.js.map",
-    "static/js/2.6c0a1915.chunk.js": "/YTS-React/./static/js/2.6c0a1915.chunk.js",
-    "static/js/2.6c0a1915.chunk.js.map": "/YTS-React/./static/js/2.6c0a1915.chunk.js.map",
-    "index.html": "/YTS-React/./index.html",
-    "precache-manifest.a597eae66f29932131af0f31f859b142.js": "/YTS-React/./precache-manifest.a597eae66f29932131af0f31f859b142.js",
-    "service-worker.js": "/YTS-React/./service-worker.js",
-    "static/css/main.e4a3482c.chunk.css.map": "/YTS-React/./static/css/main.e4a3482c.chunk.css.map",
-    "static/media/loading.css": "/YTS-React/./static/media/25.202ea67c.svg",
-    "static/media/browseMovie.css": "/YTS-React/./static/media/background.eeda8ce4.jpg",
-    "static/media/styles.css": "/YTS-React/./static/media/icon-search.10c10634.svg",
-    "static/media/logo-YTS.svg": "/YTS-React/./static/media/logo-YTS.8d3b2c16.svg",
-    "static/media/star-icon green.svg": "/YTS-React/./static/media/star-icon green.8a43bd73.svg",
-    "static/media/star-icon.svg": "/YTS-React/./static/media/star-icon.cabc5296.svg"
+    "main.css": "/yts-movie-app/static/css/main.5206d66e.chunk.css",
+    "main.js": "/yts-movie-app/static/js/main.e80021c8.chunk.js",
+    "main.js.map": "/yts-movie-app/static/js/main.e80021c8.chunk.js.map",
+    "runtime~main.js": "/yts-movie-app/static/js/runtime~main.1fcc84eb.js",
+    "runtime~main.js.map": "/yts-movie-app/static/js/runtime~main.1fcc84eb.js.map",
+    "static/js/2.6c0a1915.chunk.js": "/yts-movie-app/static/js/2.6c0a1915.chunk.js",
+    "static/js/2.6c0a1915.chunk.js.map": "/yts-movie-app/static/js/2.6c0a1915.chunk.js.map",
+    "index.html": "/yts-movie-app/index.html",
+    "precache-manifest.b9ef60da3eb5406f97a3cd62fddb7f98.js": "/yts-movie-app/precache-manifest.b9ef60da3eb5406f97a3cd62fddb7f98.js",
+    "service-worker.js": "/yts-movie-app/service-worker.js",
+    "static/css/main.5206d66e.chunk.css.map": "/yts-movie-app/static/css/main.5206d66e.chunk.css.map",
+    "static/media/loading.css": "/yts-movie-app/static/media/25.202ea67c.svg",
+    "static/media/browseMovie.css": "/yts-movie-app/static/media/background.eeda8ce4.jpg",
+    "static/media/styles.css": "/yts-movie-app/static/media/icon-search.10c10634.svg",
+    "static/media/logo-YTS.svg": "/yts-movie-app/static/media/logo-YTS.8d3b2c16.svg",
+    "static/media/star-icon green.svg": "/yts-movie-app/static/media/star-icon green.8a43bd73.svg",
+    "static/media/star-icon.svg": "/yts-movie-app/static/media/star-icon.cabc5296.svg"
   }
 }
