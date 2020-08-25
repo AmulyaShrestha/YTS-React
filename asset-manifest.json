@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "package.json/static/css/main.1969ab94.chunk.css",
-    "main.js": "package.json/static/js/main.eb56ea58.chunk.js",
-    "main.js.map": "package.json/static/js/main.eb56ea58.chunk.js.map",
-    "runtime~main.js": "package.json/static/js/runtime~main.9663a47d.js",
-    "runtime~main.js.map": "package.json/static/js/runtime~main.9663a47d.js.map",
-    "static/js/2.c01262f5.chunk.js": "package.json/static/js/2.c01262f5.chunk.js",
-    "static/js/2.c01262f5.chunk.js.map": "package.json/static/js/2.c01262f5.chunk.js.map",
-    "index.html": "package.json/index.html",
-    "precache-manifest.f2ae72fbf664f064ce44bae6c73d153f.js": "package.json/precache-manifest.f2ae72fbf664f064ce44bae6c73d153f.js",
-    "service-worker.js": "package.json/service-worker.js",
-    "static/css/main.1969ab94.chunk.css.map": "package.json/static/css/main.1969ab94.chunk.css.map",
-    "static/media/loading.css": "package.json/static/media/25.202ea67c.svg",
-    "static/media/browseMovie.css": "package.json/static/media/background.eeda8ce4.jpg",
-    "static/media/styles.css": "package.json/static/media/icon-search.10c10634.svg",
-    "static/media/logo-YTS.svg": "package.json/static/media/logo-YTS.8d3b2c16.svg",
-    "static/media/star-icon green.svg": "package.json/static/media/star-icon green.8a43bd73.svg",
-    "static/media/star-icon.svg": "package.json/static/media/star-icon.cabc5296.svg"
+    "main.css": "/YTS-React/static/css/main.e02282bc.chunk.css",
+    "main.js": "/YTS-React/static/js/main.aa92d3b4.chunk.js",
+    "main.js.map": "/YTS-React/static/js/main.aa92d3b4.chunk.js.map",
+    "runtime~main.js": "/YTS-React/static/js/runtime~main.10a94996.js",
+    "runtime~main.js.map": "/YTS-React/static/js/runtime~main.10a94996.js.map",
+    "static/js/2.c01262f5.chunk.js": "/YTS-React/static/js/2.c01262f5.chunk.js",
+    "static/js/2.c01262f5.chunk.js.map": "/YTS-React/static/js/2.c01262f5.chunk.js.map",
+    "index.html": "/YTS-React/index.html",
+    "precache-manifest.fb242b342c75d423847396fd5a51bb24.js": "/YTS-React/precache-manifest.fb242b342c75d423847396fd5a51bb24.js",
+    "service-worker.js": "/YTS-React/service-worker.js",
+    "static/css/main.e02282bc.chunk.css.map": "/YTS-React/static/css/main.e02282bc.chunk.css.map",
+    "static/media/loading.css": "/YTS-React/static/media/25.202ea67c.svg",
+    "static/media/browseMovie.css": "/YTS-React/static/media/background.eeda8ce4.jpg",
+    "static/media/styles.css": "/YTS-React/static/media/icon-search.10c10634.svg",
+    "static/media/logo-YTS.svg": "/YTS-React/static/media/logo-YTS.8d3b2c16.svg",
+    "static/media/star-icon green.svg": "/YTS-React/static/media/star-icon green.8a43bd73.svg",
+    "static/media/star-icon.svg": "/YTS-React/static/media/star-icon.cabc5296.svg"
   }
 }
