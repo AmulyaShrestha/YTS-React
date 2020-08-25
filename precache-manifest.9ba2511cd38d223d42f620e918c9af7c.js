@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7bda99f81aec10ac5fcc66fab797d71",
+    "revision": "058587eafe31bf2df796410bead9cbaa",
     "url": "/YTS-React/index.html"
   },
   {
-    "revision": "e2dc43b8afffb11e7bf5",
+    "revision": "81153d7d1f06f132de36",
     "url": "/YTS-React/static/css/main.e02282bc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YTS-React/static/js/2.6c0a1915.chunk.js"
   },
   {
-    "revision": "e2dc43b8afffb11e7bf5",
-    "url": "/YTS-React/static/js/main.d756b94d.chunk.js"
+    "revision": "81153d7d1f06f132de36",
+    "url": "/YTS-React/static/js/main.356e8e3c.chunk.js"
   },
   {
     "revision": "ddbc62f86a63df3b31a7",
