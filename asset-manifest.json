@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YTS-React/static/css/main.e02282bc.chunk.css",
-    "main.js": "/YTS-React/static/js/main.3d43c03a.chunk.js",
-    "main.js.map": "/YTS-React/static/js/main.3d43c03a.chunk.js.map",
+    "main.js": "/YTS-React/static/js/main.2fbad8c0.chunk.js",
+    "main.js.map": "/YTS-React/static/js/main.2fbad8c0.chunk.js.map",
     "runtime~main.js": "/YTS-React/static/js/runtime~main.f9d76a21.js",
     "runtime~main.js.map": "/YTS-React/static/js/runtime~main.f9d76a21.js.map",
     "static/js/2.6c0a1915.chunk.js": "/YTS-React/static/js/2.6c0a1915.chunk.js",
     "static/js/2.6c0a1915.chunk.js.map": "/YTS-React/static/js/2.6c0a1915.chunk.js.map",
     "index.html": "/YTS-React/index.html",
-    "precache-manifest.4042a119f3fc89c49d8cf3b1e12bb5ac.js": "/YTS-React/precache-manifest.4042a119f3fc89c49d8cf3b1e12bb5ac.js",
+    "precache-manifest.5b23b769af2f2b4618de824624d1a665.js": "/YTS-React/precache-manifest.5b23b769af2f2b4618de824624d1a665.js",
     "service-worker.js": "/YTS-React/service-worker.js",
     "static/css/main.e02282bc.chunk.css.map": "/YTS-React/static/css/main.e02282bc.chunk.css.map",
     "static/media/loading.css": "/YTS-React/static/media/25.202ea67c.svg",
