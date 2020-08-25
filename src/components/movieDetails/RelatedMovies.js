@@ -9,7 +9,7 @@ const RelatedMovies = (props) => {
       return(
         <div className="card-container similar-movie" key={movie.id}>
         <div className="card">
-          <a href={process.env.PUBLIC_URL + '/movie/' + movie.id + '/' + movie.slug} className="image-link" title={movie.title_long}>
+          <a href={process.env.PUBLIC_URL + '#/movie/' + movie.id + '/' + movie.slug} className="image-link" title={movie.title_long}>
             <img src={movie.medium_cover_image} alt={movie.title} className="image"/>
           </a>
         </div>
