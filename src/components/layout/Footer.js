@@ -9,9 +9,9 @@ const Footer = () => {
           <ul>
             <li>YTS © 2020</li>
             <li>-</li>
-            <li><Link to="/">Home</Link></li>
+            <li><Link to={process.env.PUBLIC_URL + '/'}>Home</Link></li>
             <li>-</li>
-            <li><Link to="/browse-movies">Browse Movies</Link></li>
+            <li><Link to={process.env.PUBLIC_URL + '/browse-movies'}>Browse Movies</Link></li>
             <li>-</li>
             <li><Link to='/'>Login</Link></li>
           </ul>
