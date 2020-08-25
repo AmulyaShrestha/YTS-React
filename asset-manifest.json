@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AmulyaShrestha/YTS-React/static/css/main.cc83d711.chunk.css",
+    "main.js": "/AmulyaShrestha/YTS-React/static/js/main.ed07077a.chunk.js",
+    "main.js.map": "/AmulyaShrestha/YTS-React/static/js/main.ed07077a.chunk.js.map",
+    "runtime~main.js": "/AmulyaShrestha/YTS-React/static/js/runtime~main.34223e93.js",
+    "runtime~main.js.map": "/AmulyaShrestha/YTS-React/static/js/runtime~main.34223e93.js.map",
+    "static/js/2.c01262f5.chunk.js": "/AmulyaShrestha/YTS-React/static/js/2.c01262f5.chunk.js",
+    "static/js/2.c01262f5.chunk.js.map": "/AmulyaShrestha/YTS-React/static/js/2.c01262f5.chunk.js.map",
+    "index.html": "/AmulyaShrestha/YTS-React/index.html",
+    "precache-manifest.378e730f298e5355dbaba0860fd1e7f3.js": "/AmulyaShrestha/YTS-React/precache-manifest.378e730f298e5355dbaba0860fd1e7f3.js",
+    "service-worker.js": "/AmulyaShrestha/YTS-React/service-worker.js",
+    "static/css/main.cc83d711.chunk.css.map": "/AmulyaShrestha/YTS-React/static/css/main.cc83d711.chunk.css.map",
+    "static/media/loading.css": "/AmulyaShrestha/YTS-React/static/media/25.202ea67c.svg",
+    "static/media/browseMovie.css": "/AmulyaShrestha/YTS-React/static/media/background.eeda8ce4.jpg",
+    "static/media/styles.css": "/AmulyaShrestha/YTS-React/static/media/icon-search.10c10634.svg",
+    "static/media/logo-YTS.svg": "/AmulyaShrestha/YTS-React/static/media/logo-YTS.8d3b2c16.svg",
+    "static/media/star-icon green.svg": "/AmulyaShrestha/YTS-React/static/media/star-icon green.8a43bd73.svg",
+    "static/media/star-icon.svg": "/AmulyaShrestha/YTS-React/static/media/star-icon.cabc5296.svg"
+  }
+}
