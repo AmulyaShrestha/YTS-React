@@ -12,14 +12,14 @@ import MovieDetails from './components/movieDetails/MovieDetails';
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
           <Navbar />
 
           <Switch className="main">
-            <Route path={process.env.PUBLIC_URL + '/'} component={Home} />
-            <Route path={process.env.PUBLIC_URL + '/browse-movies'} component={BrowseMovies} />
-            <Route path={process.env.PUBLIC_URL + '/movie/:id/:slug'} component={MovieDetails} />
+            <Route exact path="/" component={Home} />
+            <Route exact path="/browse-movies" component={BrowseMovies} />
+            <Route exact path="/movie/:id/:slug" component={MovieDetails} />
           </Switch>
           <Footer />
         </div>
