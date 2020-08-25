@@ -12,8 +12,8 @@ class Navbar extends Component {
           </div>
           <div className="main-nav-links">
             <ul className='nav-links'>
-              <li><NavLink exact to="/">Home</NavLink></li>
-              <li><NavLink exact to="/browse-movies">Browse Movies</NavLink></li>
+              <li><NavLink to="/">Home</NavLink></li>
+              <li><NavLink to="/browse-movies">Browse Movies</NavLink></li>
             </ul>
             <ul className='nav-links nav-links-guest'>
               <li>
