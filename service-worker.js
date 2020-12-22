@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/YTS-React/precache-manifest.0ecb72fbbf23a8c7c870823e75c5010a.js"
+  "/YTS-React/precache-manifest.48c0ea3cda8095ed9c93c1d887ca42c8.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/YTS-React/static/css/main.e02282bc.chunk.css",
-    "main.js": "/YTS-React/static/js/main.8b517b1e.chunk.js",
-    "main.js.map": "/YTS-React/static/js/main.8b517b1e.chunk.js.map",
+    "main.css": "/YTS-React/static/css/main.42245921.chunk.css",
+    "main.js": "/YTS-React/static/js/main.a982439b.chunk.js",
+    "main.js.map": "/YTS-React/static/js/main.a982439b.chunk.js.map",
     "runtime~main.js": "/YTS-React/static/js/runtime~main.f9d76a21.js",
     "runtime~main.js.map": "/YTS-React/static/js/runtime~main.f9d76a21.js.map",
-    "static/js/2.6c0a1915.chunk.js": "/YTS-React/static/js/2.6c0a1915.chunk.js",
-    "static/js/2.6c0a1915.chunk.js.map": "/YTS-React/static/js/2.6c0a1915.chunk.js.map",
+    "static/js/2.aba7c21e.chunk.js": "/YTS-React/static/js/2.aba7c21e.chunk.js",
+    "static/js/2.aba7c21e.chunk.js.map": "/YTS-React/static/js/2.aba7c21e.chunk.js.map",
     "index.html": "/YTS-React/index.html",
-    "precache-manifest.0ecb72fbbf23a8c7c870823e75c5010a.js": "/YTS-React/precache-manifest.0ecb72fbbf23a8c7c870823e75c5010a.js",
+    "precache-manifest.48c0ea3cda8095ed9c93c1d887ca42c8.js": "/YTS-React/precache-manifest.48c0ea3cda8095ed9c93c1d887ca42c8.js",
     "service-worker.js": "/YTS-React/service-worker.js",
-    "static/css/main.e02282bc.chunk.css.map": "/YTS-React/static/css/main.e02282bc.chunk.css.map",
+    "static/css/main.42245921.chunk.css.map": "/YTS-React/static/css/main.42245921.chunk.css.map",
     "static/media/loading.css": "/YTS-React/static/media/25.202ea67c.svg",
     "static/media/browseMovie.css": "/YTS-React/static/media/background.eeda8ce4.jpg",
-    "static/media/styles.css": "/YTS-React/static/media/icon-search.10c10634.svg",
-    "static/media/logo-YTS.svg": "/YTS-React/static/media/logo-YTS.8d3b2c16.svg",
-    "static/media/star-icon green.svg": "/YTS-React/static/media/star-icon green.8a43bd73.svg",
-    "static/media/star-icon.svg": "/YTS-React/static/media/star-icon.cabc5296.svg"
+    "static/media/styles.css": "/YTS-React/static/media/icon-search.a4282c8f.svg",
+    "static/media/logo-YTS.svg": "/YTS-React/static/media/logo-YTS.c1cdb2b5.svg",
+    "static/media/star-icon green.svg": "/YTS-React/static/media/star-icon green.78f40dc8.svg",
+    "static/media/star-icon.svg": "/YTS-React/static/media/star-icon.67671197.svg"
   }
 }
